@@ -1,15 +1,19 @@
 # Itsy Bitsy
 
 Original Repo: https://github.students.cs.ubc.ca/CPSC427-2021W-T1/team05
+
 ## Background ##
 This was a course project made (over the course of 13 weeks) in a team of 6 for CPSC 427: Video Game Programming at UBC. It is written in C++ and OpenGL. The OpenGL libraries used are glfw, gl3w, glm. 
 The project was written with the ECS (Entity-Component-System) design pattern. 
 
----
+What I did: 
+- Made sprites
+- Implemented precise collision
+- Implemented new enemy and new attack mode for level 2
+- Attempted to implement lighting that follows the player
+
 ## Inspiration ##
 The game idea was inspired by the arcade game - Rampage that I played when I was young. 
-
----
 
 ## Story ##
 Gerald is a mutated spider and his webs are poisonous enough to destroy ecosystems. 
@@ -23,13 +27,23 @@ Once he successfully destroys part of the environment, he will move on to the ne
 - Use CMake to build project
 - Build solution and run "ItsyBitsy.exe"
 
---- 
- 
+
 ## How To Play ##
 - Use WASD keyboard control to move spider
 - Avoid getting hit by bees
 - Eat ants to increase health
 - Use cursor to shoot webs at bees and trees
+
+---
+## Video Demo ##
+
+https://github.com/ennaelhop/Itsy-Bitsy/assets/25095632/48a916bd-53af-449f-958d-e1d40a067dff
+
+
+## Screenshots ##
+![image](https://github.com/ennaelhop/Itsy-Bitsy/assets/25095632/3cc800fb-a595-4bfb-bc1e-43ecd92c3f15)
+![image](https://github.com/ennaelhop/Itsy-Bitsy/assets/25095632/a1660531-99b2-496c-96aa-a0af2e66a77d)
+![image](https://github.com/ennaelhop/Itsy-Bitsy/assets/25095632/f01ea701-b94e-42f7-928a-de9723271629)
 
 ---
 ## Features ##
@@ -59,12 +73,3 @@ Note:
 
 ## Background credits ##
 - Artwork created by Eder Muniz: https://edermunizz.itch.io/free-pixel-art-forest?download
- 
-
-
-
-
-
-
-
-
