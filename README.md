@@ -1,5 +1,6 @@
 # Itsy Bitsy
 
+Original Repo: https://github.students.cs.ubc.ca/CPSC427-2021W-T1/team05
 ## Background ##
 This was a course project made (over the course of 13 weeks) in a team of 6 for CPSC 427: Video Game Programming at UBC. It is written in C++ and OpenGL. The OpenGL libraries used are glfw, gl3w, glm. 
 The project was written with the ECS (Entity-Component-System) design pattern. 
@@ -20,14 +21,15 @@ Once he successfully destroys part of the environment, he will move on to the ne
 ---
 ## How To Run ##
 - Use CMake to build project
+- Build solution and run "ItsyBitsy.exe"
 
 --- 
  
 ## How To Play ##
-- use WASD keyboard control to move spider
-- avoid getting hit by bees
-- eat ants to increase health
-- use cursor to shoot webs at bees and trees
+- Use WASD keyboard control to move spider
+- Avoid getting hit by bees
+- Eat ants to increase health
+- Use cursor to shoot webs at bees and trees
 
 ---
 ## Features ##
